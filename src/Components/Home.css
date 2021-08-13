@@ -1,0 +1,25 @@
+/*body{
+  background-image:url("https://scontent.fjnb11-1.fna.fbcdn.net/v/t1.6435-9/121229252_969094983572287_7574158032886394644_n.jpg?_nc_cat=101&ccb=1-4&_nc_sid=8bfeb9&_nc_ohc=DuaU2SR-DGMAX_dsEeI&_nc_ht=scontent.fjnb11-1.fna&oh=45ca50deca5143bb65f02742262bea30&oe=613C1A9B");
+}*/
+.welcome {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  width: 520px;
+  min-height: 600px;
+  background:url("https://scontent.fjnb11-1.fna.fbcdn.net/v/t1.6435-9/c0.69.206.206a/p206x206/121229252_969094983572287_7574158032886394644_n.jpg?_nc_cat=101&ccb=1-4&_nc_sid=da31f3&_nc_ohc=fjAi7R48fDMAX_DphOv&_nc_ht=scontent.fjnb11-1.fna&oh=517fdc68381580ef27c20c06c7b78dc5&oe=613CBF2B"  );
+  text-align: center;
+  margin: 128px auto;
+  border-radius: 10px;
+  padding-bottom: 32px;
+}
+.heading{
+  padding-top: 150px;
+}
+
+.intro{
+  padding-top: 280px;
+  margin-left: 120px;
+  font-style: italic;
+  font-size: x-small;
+}
